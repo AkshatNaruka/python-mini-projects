@@ -1,5 +1,4 @@
 **python-basics**
-by Akshat Naruka
 
 #1.Alarm clock :
           alarm clock using python .
