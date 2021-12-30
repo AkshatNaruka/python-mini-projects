@@ -11,3 +11,7 @@
 #3. password generator :
           password generator using python . 
           input the length of password and code will generate random password.
+
+#4. temperature converter :
+            temperature generator using python . 
+            choose the option for celsius to fahrenheit or vice-versa.
